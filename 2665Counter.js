@@ -1,7 +1,6 @@
 var createCounter = function(init) {
     let num = init;
 
-
     return {
         increment: () => {
             num++;
